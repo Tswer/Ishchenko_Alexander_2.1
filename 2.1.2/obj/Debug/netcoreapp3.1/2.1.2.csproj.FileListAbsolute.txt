@@ -1,0 +1,11 @@
+/Users/cg/Projects/2.1.2/2.1.2/obj/Debug/netcoreapp3.1/2.1.2.csprojAssemblyReference.cache
+/Users/cg/Projects/2.1.2/2.1.2/obj/Debug/netcoreapp3.1/2.1.2.AssemblyInfoInputs.cache
+/Users/cg/Projects/2.1.2/2.1.2/obj/Debug/netcoreapp3.1/2.1.2.AssemblyInfo.cs
+/Users/cg/Projects/2.1.2/2.1.2/bin/Debug/netcoreapp3.1/2.1.2
+/Users/cg/Projects/2.1.2/2.1.2/bin/Debug/netcoreapp3.1/2.1.2.deps.json
+/Users/cg/Projects/2.1.2/2.1.2/bin/Debug/netcoreapp3.1/2.1.2.runtimeconfig.json
+/Users/cg/Projects/2.1.2/2.1.2/bin/Debug/netcoreapp3.1/2.1.2.runtimeconfig.dev.json
+/Users/cg/Projects/2.1.2/2.1.2/bin/Debug/netcoreapp3.1/2.1.2.dll
+/Users/cg/Projects/2.1.2/2.1.2/bin/Debug/netcoreapp3.1/2.1.2.pdb
+/Users/cg/Projects/2.1.2/2.1.2/obj/Debug/netcoreapp3.1/2.1.2.dll
+/Users/cg/Projects/2.1.2/2.1.2/obj/Debug/netcoreapp3.1/2.1.2.pdb
